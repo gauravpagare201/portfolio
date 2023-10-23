@@ -1,4 +1,4 @@
 # portfolio
 This is my portfolio.
 <br>
-Author - Gaurav Pagare
+Author - Gaurav A. Pagare
